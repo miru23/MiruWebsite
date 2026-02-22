@@ -1,9 +1,1 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://www.mirunan.com/$1",
-      "permanent": true
-    }
-  ]
-}
+{}
