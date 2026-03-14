@@ -16,5 +16,11 @@ const apps = [
     description: "Trivia for kids based on Kathir's curiosity of wanting to learn more about all things. Fun, fast, and endlessly educational.",
     screenshot: "assets/screenshots/kathirs-trivia.jpg",
     url: "https://kathir-trivia.gunarajah.com/"
+  },
+  {
+    name: "Veera's Puzzle Game",
+    description: "Puzzle games for kids to match and sort!",
+    screenshot: "assets/screenshots/veeras-puzzle-game.jpg",
+    url: "https://veerapuzzle.gunarajah.com/"
   }
 ];
