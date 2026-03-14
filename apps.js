@@ -19,7 +19,7 @@ const apps = [
   },
   {
     name: "Veera's Puzzle Game",
-    description: "Puzzle games for kids to match and sort!",
+    description: "Puzzle game for kids to match colours & shapes. Also games for memory & sorting!",
     screenshot: "assets/screenshots/veeras-puzzle-game.jpg",
     url: "https://veerapuzzle.gunarajah.com/"
   }
