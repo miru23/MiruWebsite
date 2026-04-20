@@ -22,5 +22,11 @@ const apps = [
     description: "Puzzle game for kids to match colours & shapes. Also games for memory & sorting!",
     screenshot: "assets/screenshots/veeras-puzzle-game.jpg",
     url: "https://veerapuzzle.gunarajah.com/"
+  },
+  {
+    name: "Word Wizard",
+    description: "A hangman game for kids. Guess the secret word letter by letter before the picture is complete. Features 6 categories and 80+ words.",
+    screenshot: "assets/screenshots/word-wizard.jpg",
+    url: "https://hangman.gunarajah.com/"
   }
 ];
