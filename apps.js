@@ -28,5 +28,11 @@ const apps = [
     description: "A hangman game for kids. Guess the secret word letter by letter before the picture is complete. Features 6 categories and 80+ words.",
     screenshot: "assets/screenshots/word-wizard.jpg",
     url: "https://hangman.gunarajah.com/"
+  },
+  {
+    name: "Wuzzle",
+    description: "Calm, tactile puzzles for curious little explorers. A gentle and engaging puzzle app designed for little hands.",
+    screenshot: "assets/screenshots/wuzzle.jpg",
+    url: "https://wuzzle.gunarajah.com/"
   }
 ];
